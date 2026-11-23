@@ -1,5 +1,3 @@
--- CONSULTAS
-
 SELECT * FROM restaurante.categorias;   
     
 SELECT * FROM restaurante.clientes;   
