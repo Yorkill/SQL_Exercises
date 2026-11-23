@@ -1,5 +1,3 @@
--- Ver todo el contenido de cada tabla
-
 SELECT * FROM gim.planes;   
     
 SELECT * FROM gim.entrenadores;   
