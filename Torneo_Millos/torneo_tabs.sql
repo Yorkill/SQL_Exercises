@@ -1,5 +1,3 @@
---consultas
-
 SELECT * FROM torneo.arbitros;   
     
 SELECT * FROM torneo.canchas;   
